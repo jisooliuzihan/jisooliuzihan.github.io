@@ -1,0 +1,37 @@
+---
+title: MISC
+date: 2021-12-02 12:07:34
+tags:
+---
+
+一、 金三胖 判断图片三次闪烁的flag最后合在一起
+
+![img](file:///C:\Users\HP\Documents\Tencent Files\747534209\Image\C2C\}D0W{]T4T`$F8UG)WN1PG%J.png)flag{hello_hongke}
+
+二、你竟然赶我走与乌镇峰会种图
+
+属于同一类型的题，要用到010 Editor等软件
+
+![)68ULOLXU3TT6F25VT_`DDF](C:\Users\HP\Desktop\)68ULOLXU3TT6F25VT_`DDF.png)
+
+![F5FP$TQQV)3R@3D3CUT5TQY](C:\Users\HP\Desktop\F5FP$TQQV)3R@3D3CUT5TQY.png)
+
+三、N种方法解决
+
+在010 Editor种发现base64，复制之后的代码带入base64解码
+
+![H{2@R$K)M~V5}HX0JF[HR6G](C:\Users\HP\Desktop\H{2@R$K)M~V5}HX0JF[HR6G.png)
+
+![F$8[MZ1B_UC7D_7NIW8}P{D](C:\Users\HP\Desktop\F$8[MZ1B_UC7D_7NIW8}P{D.png)
+
+出来一个二维码，扫出答案找到flag
+
+四、大白
+
+在010Editor中打开，把长度改长，图片只有一半，露出下面一半得到flag
+
+![dabai](C:\Users\HP\Desktop\dabai.png)
+
+五、文件中的秘密
+
+找到图片，右击找到属性，在备注里找到flag
